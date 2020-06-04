@@ -2,7 +2,7 @@
 Generates rectangular maps that look like Islands, uses SDL2.
 Download .exe along with the Assets and .dlls to use.
 ESC - Kill,   
-F1 - Night On/Off, 
+F1 - Night On/Off,  
 F2 - Empty Map,  
 F3 - Cicle through tiles,  
 F4 - Cells shading,  
