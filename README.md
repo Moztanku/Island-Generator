@@ -1,6 +1,6 @@
 # Island-Generator
 Generates rectangular maps that look like Islands, uses SDL2.
-Download .exe along with the Assets and .dlls to use.
+Download .exe along with the Assets and .dlls to use.  
 ESC - Kill,   
 F1 - Night On/Off,  
 F2 - Empty Map,  
